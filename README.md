@@ -1,6 +1,7 @@
 # software-testing-project
+Project in course: Software Testing - 1DL610
 
-black-box- and white-box testing for the Python library Numpy. 
+This project includes black-box- and white-box testing for the Python library Numpy. 
 
 ### Run
 Make sure Python is installed.
