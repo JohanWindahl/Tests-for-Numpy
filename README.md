@@ -1,10 +1,10 @@
 # Tests-for-Numpy
+
 Project in course: Software Testing - 1DL610
 
-This project includes black-box- and white-box testing for the Python library Numpy. 
+**Language: Python**
 
-### Run
-Make sure Python is installed.
+**Details:** This project includes black-box- and white-box testing for the Python library Numpy. 
 
 ### Running test_numpy_polynomial
 Run test_numpy_polynomial.py from the root of the project:
